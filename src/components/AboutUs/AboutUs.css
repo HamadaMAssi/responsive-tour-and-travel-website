@@ -7,10 +7,14 @@
 }
 .about-container p{
     padding-bottom: 2rem;
+    text-align: justify;
 }
 
-@media screen and(max-width: 850px) {
+@media screen and (max-width: 850px) {
     .about-container{
         margin: 4rem 2rem;
+    }
+    .about-container h1{
+        text-align: center;
     }
 }
