@@ -67,6 +67,10 @@
     -o-transition: all 0.2s ease-in-out;
 }
 
+.nav-links:hover i{
+    color: #fff;
+}
+
 .nav-links-mobile{
     display: none;
 }
