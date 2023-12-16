@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './Navbar.css'
-import { FaHome } from "react-icons/fa";
 import { MenuItems } from '../data/MenuItems';
 import { Link } from 'react-router-dom';
 
