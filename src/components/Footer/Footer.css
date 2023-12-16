@@ -11,6 +11,10 @@ text-align: start;
 justify-content: space-between;
 flex-wrap: wrap;
 }
+.top h1, .top p{
+    color:#fff;
+}
+
 .top i{
     color:#fff;
     font-size: 2rem;
@@ -35,6 +39,7 @@ flex-wrap: wrap;
 .bottom h4{
     font-size: 1.3rem;
     padding: 1rem 0 0.8rem 0;
+    color: #fff;
 }
 
 .bottom a{
